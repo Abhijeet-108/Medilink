@@ -9,7 +9,7 @@ function Home() {
                 <Navbar />
             </nav>
             <div>
-                Home
+                <img src="pic_hospital.png" alt="" />
             </div>
             <footer className='bg-blue-900 text-white py-10 '>
                 <Footer />
